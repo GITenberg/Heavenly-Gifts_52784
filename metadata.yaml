@@ -1,0 +1,32 @@
+_repo: Heavenly-Gifts_52784
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pederson, John
+    gutenberg_agent_id: '47037'
+    url: http://www.gutenberg.org/2009/agents/47037
+creator:
+  author:
+    agent_name: Kolom, Aaron L.
+    aliases:
+    - Kolom, A. L. (Aaron Leigh)
+    - Kolom, Aaron Leigh
+    gutenberg_agent_id: '47040'
+    url: http://www.gutenberg.org/2009/agents/47040
+description: ''
+gutenberg_issued: '2016-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Cold War -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Heavenly Gifts
+url: http://www.gutenberg.org/ebooks/52784
